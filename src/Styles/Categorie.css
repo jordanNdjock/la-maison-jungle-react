@@ -1,0 +1,15 @@
+.lmj-categories{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.lmj-categories-select{
+    margin-right: 15px;
+    width: 210px;
+    height: 30px;
+    border: 1.5px solid rgb(173, 173, 173);
+    text-align: center;
+    font-family: cursive;
+    font-weight: 600;
+    border-radius: 3px;
+}
